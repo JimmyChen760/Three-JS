@@ -44,7 +44,7 @@ const About = () => {
       <motion.p variants={fadeIn("","",0.1,1)}
       className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a second year computer science student currently studying
+        I am a third year computer science student currently studying
         at Wilfrid Laurier University. Click <a href={Resume} download="Jimmy-Chen's-Resume" className="underline hover:underline-offset-5">here</a> to download my resume. Below are the skills
         I currently have:
       </motion.p>
